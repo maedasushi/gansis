@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//gansis.netlify.app/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://gansis.netlify.app/</loc>
+		<lastmod>2020-12-07T01:25:54-07:00</lastmod>
+	</url>
+	<url>
+		<loc>https://gansis.netlify.app/cara-mengobati-kucing-sakit-lemas.html</loc>
+		<lastmod>2021-03-17T01:09:40-07:00</lastmod>
+		<image:image>
+			<image:loc>https://gansis.netlify.app/assets/images/cara-mengobati-kucing-sakit-lemas.jpg</image:loc>
+			<image:caption>cara mengobati kucing sakit lemas</image:caption>
+		</image:image>
+	</url>
+</urlset>
