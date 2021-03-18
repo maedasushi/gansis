@@ -1,0 +1,4 @@
+agent: *
+Disallow:
+
+Sitemap: https://gansis.netlify.app/sitemap.xml
